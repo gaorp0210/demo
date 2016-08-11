@@ -5,7 +5,7 @@ cache.inc.php：
 class Cache {
 
 
-   /**
+   /**测试分支
     * $dir : 缓存文件存放目录
     * $lifetime : 缓存文件有效期,单位为秒
     * $cacheid : 缓存文件路径,包含文件名
