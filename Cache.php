@@ -3,6 +3,8 @@ cache.inc.php：
 <?php
  
 class Cache {
+
+
    /**
     * $dir : 缓存文件存放目录
     * $lifetime : 缓存文件有效期,单位为秒
